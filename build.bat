@@ -1,3 +1,3 @@
 
 rm -rf dist 
-npx slidev build --base /p1/
+npx slidev build --base /p3/
