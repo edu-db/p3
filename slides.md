@@ -134,7 +134,14 @@ layout: section
 
 ## Приклад
 
-[Statt_. Аналіз предметної області](https://github.com/EugeneGoode/OBD/blob/master/docs/requirements/state-of-the-art.md)
+[Statt_](https://github.com/EugeneGoode/OBD/blob/master/docs/requirements/state-of-the-art.md)
+
+[Система управління відкритими даними](https://github.com/KarmazinN/db_open_data/blob/master/docs/requirements/state-of-the-art.md)
+
+[Система організації та управління опитуваннями експертів](https://github.com/snyk04/SurvExp/blob/main/docs/requirements/state-of-the-art.md)
+
+[Progmark](https://github.com/VitaliiZZzz/project_managment_system/blob/master/docs/requirements/state-of-the-art.md)
+
 
 ---
 
